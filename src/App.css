@@ -1,0 +1,29 @@
+/* .inputpart{
+  width: 50rem;
+}
+.inputbar{
+  width: 31rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+  margin-left: 17rem; 
+  border-radius: 8px 8px;  
+  border-style: solid;
+  padding: 0.75rem 0.75rem;
+}
+.btn{
+  width: 5rem;
+  padding: 0.75rem 0.75rem;
+  border-radius: 8px 8px;
+} */
+
+.app{
+  padding: 30px;
+}
+
+.todo{
+  display: flex;
+  font-size: 18px;
+  align-items: center;
+  justify-content: space-between;
+}
